@@ -164,6 +164,10 @@ green -> 123
 
 20. group all 30+ females by their age.
 
+```js
+
+```
+
 21. Group all 23+ males with blue eyes working in Germany.
 
 22. Group all by tag names i.e. use \$unwind since tags are array.
